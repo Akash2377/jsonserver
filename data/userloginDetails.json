@@ -1,0 +1,36 @@
+[
+  {
+    "password": "12345678",
+    "email": "",
+    "phone": "8585858585",
+    "userLoginId": 1658656526044,
+    "id": 1,
+    "name": "",
+    "gender": "Male",
+    "dateOfBirth": "",
+    "plan699": true,
+    "plan499": false,
+    "watchList": [
+      {
+        "VID": "BKviRM0KF2A",
+        "title": "AVENGERS: ENDGAME All Movie Clips - Final Battle (2019)",
+        "photo": "https://i.ytimg.com/vi/BKviRM0KF2A/mqdefault.jpg "
+      },
+      {
+        "VID": "QblXRGSTJlU",
+        "title": "Rangbaaz: Darr Ki Rajneeti - OFFICIAL TRAILER (HD) | A ZEE5 Original | Watch Now on ZEE5",
+        "photo": "https://i.ytimg.com/vi/QblXRGSTJlU/mqdefault.jpg "
+      },
+      {
+        "VID": "tUkEl5pYMpk",
+        "title": "Dance india dance S03 6 August 2022 full episode | DID S03 6 August 2022 full episode",
+        "photo": "https://i.ytimg.com/vi/tUkEl5pYMpk/mqdefault.jpg "
+      },
+      {
+        "VID": "epTjTuZSX6Y",
+        "title": "Meet the Hindi voice behind NICK FURY",
+        "photo": "https://i.ytimg.com/vi/epTjTuZSX6Y/mqdefault.jpg "
+      }
+    ]
+  }
+]
