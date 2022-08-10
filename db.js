@@ -2,13 +2,19 @@ const items = require("./data/items");
 const tags = require("./data/tags");
 const brands = require("./data/brands");
 const itemTypes = require("./data/itemTypes");
-const zee5 = require("./data/zee5");
-const loginDetails = require("./data/userloginDetails");
+const bhojpuriData = require("./data/bhojpuriData");
+const userloginDetails = require("./data/userloginDetails");
+const zeeOriginalData = require("./data/zeeOriginalData");
+const TvShowsZee5 = require("./data/TvShowsZee5");
+const webseries = require("./data/webseries");
 module.exports = {
   items,
   tags,
   brands,
   itemTypes,
-  zee5,
-  loginDetails,
+  bhojpuriData,
+  userloginDetails,
+  zeeOriginalData,
+  TvShowsZee5,
+  webseries,
 };
