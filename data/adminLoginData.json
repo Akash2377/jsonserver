@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Ayush Kumar",
+    "gender": "male",
+    "dateOfBirth": "2001-08-05",
+    "password": "1234",
+    "email": "ayushkumar@masai.com",
+    "phone": "9090909090",
+    "address": "Pune",
+    "userLoginId": 1658656466564,
+    "id": 1
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Akash Surve",
+    "userName": "superAdmin",
+    "password": "1234",
+    "email": "surveakash01@masai.com",
+    "phone": "8080808080",
+    "gender": "male",
+    "address": "Pune",
+    "dateOfBirth": "1995-07-22",
+    "userLoginId": "9876543210"
+  }
+]
