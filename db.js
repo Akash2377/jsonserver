@@ -1,7 +1,3 @@
-const items = require("./data/items");
-const tags = require("./data/tags");
-const brands = require("./data/brands");
-const itemTypes = require("./data/itemTypes");
 const bhojpuriData = require("./data/bhojpuriData");
 const userloginDetails = require("./data/userloginDetails");
 const zeeOriginalData = require("./data/zeeOriginalData");
@@ -11,11 +7,8 @@ const studentLoginData = require("./data/studentLoginData");
 const superAdminLoginData = require("./data/superAdminLoginData");
 const adminLoginData = require("./data/adminLoginData");
 const courses = require("./data/courses");
+const react = require("./react/react");
 module.exports = {
-  items,
-  tags,
-  brands,
-  itemTypes,
   bhojpuriData,
   userloginDetails,
   zeeOriginalData,
@@ -25,4 +18,5 @@ module.exports = {
   adminLoginData,
   superAdminLoginData,
   studentLoginData,
+  react,
 };
